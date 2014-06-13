@@ -1,0 +1,29 @@
+
+"Easier to write good code in Ember because it is opinionated.""
+
+"Ember requires a lot of set-up to get going, but then it's easier to extend.""
+Look into Ember-CLI -- generators and stuff to make getting boilerplate up.
+Ember-Data makes data models easier.
+
+Object Observer coming in ES7.
+
+Ember community is standardising testing on QUnit. Previously was a moving target.
+Angular has testing baked in, part of the culture.
+
+
+
+* AngularJS
+
+** directives
+   You *can* do things in plain-old-javascript in Angular, but do it in Angular instead. It will be worth it down the road.
+
+** filters
+** services / factories
+   dependency injection -- can inject services on the fly; useful for testing!
+
+* Backbone
+easy to extend; in fact you'll rarely be writing in bare Backbone.
+** Marionet
+
+* React
+** Not a good way to integrate jsx and coffeescript
